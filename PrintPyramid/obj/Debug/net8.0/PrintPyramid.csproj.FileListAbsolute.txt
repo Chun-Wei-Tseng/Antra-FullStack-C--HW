@@ -1,0 +1,15 @@
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/bin/Debug/net8.0/PrintPyramid
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/bin/Debug/net8.0/PrintPyramid.deps.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/bin/Debug/net8.0/PrintPyramid.runtimeconfig.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/bin/Debug/net8.0/PrintPyramid.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/bin/Debug/net8.0/PrintPyramid.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/obj/Debug/net8.0/PrintPyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/obj/Debug/net8.0/PrintPyramid.AssemblyInfoInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/obj/Debug/net8.0/PrintPyramid.AssemblyInfo.cs
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/obj/Debug/net8.0/PrintPyramid.csproj.CoreCompileInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/obj/Debug/net8.0/PrintPyramid.sourcelink.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/obj/Debug/net8.0/PrintPyramid.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/obj/Debug/net8.0/refint/PrintPyramid.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/obj/Debug/net8.0/PrintPyramid.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/obj/Debug/net8.0/PrintPyramid.genruntimeconfig.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/PrintPyramid/obj/Debug/net8.0/ref/PrintPyramid.dll

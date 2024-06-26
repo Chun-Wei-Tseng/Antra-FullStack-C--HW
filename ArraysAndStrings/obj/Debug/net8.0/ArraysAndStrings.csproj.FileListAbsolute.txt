@@ -1,0 +1,15 @@
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/bin/Debug/net8.0/ArraysAndStrings
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/bin/Debug/net8.0/ArraysAndStrings.deps.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/bin/Debug/net8.0/ArraysAndStrings.runtimeconfig.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/bin/Debug/net8.0/ArraysAndStrings.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/bin/Debug/net8.0/ArraysAndStrings.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.AssemblyInfoInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.AssemblyInfo.cs
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.csproj.CoreCompileInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.sourcelink.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/obj/Debug/net8.0/refint/ArraysAndStrings.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/obj/Debug/net8.0/ArraysAndStrings.genruntimeconfig.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/ArraysAndStrings/obj/Debug/net8.0/ref/ArraysAndStrings.dll

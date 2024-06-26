@@ -1,0 +1,15 @@
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/bin/Debug/net8.0/GuessNumberBetweenOneAndThree
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/bin/Debug/net8.0/GuessNumberBetweenOneAndThree.deps.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/bin/Debug/net8.0/GuessNumberBetweenOneAndThree.runtimeconfig.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/bin/Debug/net8.0/GuessNumberBetweenOneAndThree.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/bin/Debug/net8.0/GuessNumberBetweenOneAndThree.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/obj/Debug/net8.0/GuessNumberBetweenOneAndThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/obj/Debug/net8.0/GuessNumberBetweenOneAndThree.AssemblyInfoInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/obj/Debug/net8.0/GuessNumberBetweenOneAndThree.AssemblyInfo.cs
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/obj/Debug/net8.0/GuessNumberBetweenOneAndThree.csproj.CoreCompileInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/obj/Debug/net8.0/GuessNumberBetweenOneAndThree.sourcelink.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/obj/Debug/net8.0/GuessNumberBetweenOneAndThree.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/obj/Debug/net8.0/refint/GuessNumberBetweenOneAndThree.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/obj/Debug/net8.0/GuessNumberBetweenOneAndThree.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/obj/Debug/net8.0/GuessNumberBetweenOneAndThree.genruntimeconfig.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/GuessNumberBetweenOneAndThree/obj/Debug/net8.0/ref/GuessNumberBetweenOneAndThree.dll

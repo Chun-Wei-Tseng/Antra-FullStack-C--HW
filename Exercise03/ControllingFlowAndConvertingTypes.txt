@@ -1,0 +1,22 @@
+1.	What happens when you divide an int variable by 0?
+Ans: it will cause a runtime exception, System.DivideByZeroException. 
+2.	What happens when you divide a double variable by 0?
+Ans: It doesn’t throw an exception. If the numerator is positive, the result is positive infinity. If the numerator is negative, the result is negative infinity.
+3.	What happens when you overflow an int variable, that is, set it to a value beyond its range?
+Ans: The behavior depends on whether overflow checking is enabled or not. By default, C# does not check for overflow. If an overflow occurs, the value wraps around using two’s compliment arithmetic. When overflow checking is enabled, an ‘OverFlowException’ is thrown if an overflow occurs.
+4.	What is the difference between x = y++ and x = ++y?
+Ans: 
+-	x = y++: The current value of y is assigned to x. y is then increment by 1.
+-	x = ++y: y is incremented by 1. The new value of y is assigned to x.
+5.	What is the difference between break, continue, and return when used inside a loop statement?
+Ans: Break terminates the nearest enclosing loop or switch statement. Continue skips the remaining statements in the current iteration of the nearest enclosing loop and proceeds to the next iteration. Return exits from the current method and optionally returns a value to the calling method.
+6.	What are the three parts of a for statement and which of them are required?
+Ans: The initialization, the condition, and the iteration expression. None of them are strictly required, but the semicolons separating them are required.
+7.	What is the difference between the = and == operators?
+Ans: = is used to assign a value to a variable. == is used to two values for equality.
+8.	Does the following statement compile? for (;true;);
+Ans: Yes, it compiles. The statement represents an infinite loop.
+9.	What does the underscore _ represent in a switch expression?
+Ans: It serves as the default case in a switch expression, ensuring that any unmatched cases are handled.
+10.	What interface must an object implement to be enumerated over by using the foreach statement?
+Ans: An object must implements the ‘IEnumerable’ interface or the ‘IEnumerable<T>’ interface in order to be enumerated over by using the foreach statement.

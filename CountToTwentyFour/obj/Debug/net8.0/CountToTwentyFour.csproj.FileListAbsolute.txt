@@ -1,0 +1,15 @@
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/bin/Debug/net8.0/CountToTwentyFour
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/bin/Debug/net8.0/CountToTwentyFour.deps.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/bin/Debug/net8.0/CountToTwentyFour.runtimeconfig.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/bin/Debug/net8.0/CountToTwentyFour.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/bin/Debug/net8.0/CountToTwentyFour.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/obj/Debug/net8.0/CountToTwentyFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/obj/Debug/net8.0/CountToTwentyFour.AssemblyInfoInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/obj/Debug/net8.0/CountToTwentyFour.AssemblyInfo.cs
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/obj/Debug/net8.0/CountToTwentyFour.csproj.CoreCompileInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/obj/Debug/net8.0/CountToTwentyFour.sourcelink.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/obj/Debug/net8.0/CountToTwentyFour.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/obj/Debug/net8.0/refint/CountToTwentyFour.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/obj/Debug/net8.0/CountToTwentyFour.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/obj/Debug/net8.0/CountToTwentyFour.genruntimeconfig.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/CountToTwentyFour/obj/Debug/net8.0/ref/CountToTwentyFour.dll

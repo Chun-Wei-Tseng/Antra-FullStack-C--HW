@@ -1,0 +1,15 @@
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/bin/Debug/net8.0/BirthdayCalculator
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/bin/Debug/net8.0/BirthdayCalculator.deps.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/bin/Debug/net8.0/BirthdayCalculator.runtimeconfig.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/bin/Debug/net8.0/BirthdayCalculator.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/bin/Debug/net8.0/BirthdayCalculator.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.AssemblyInfoInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.AssemblyInfo.cs
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.csproj.CoreCompileInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.sourcelink.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/obj/Debug/net8.0/refint/BirthdayCalculator.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/obj/Debug/net8.0/BirthdayCalculator.genruntimeconfig.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/BirthdayCalculator/obj/Debug/net8.0/ref/BirthdayCalculator.dll

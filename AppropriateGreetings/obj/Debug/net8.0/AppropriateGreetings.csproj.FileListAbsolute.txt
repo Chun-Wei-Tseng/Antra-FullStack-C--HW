@@ -1,0 +1,15 @@
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/bin/Debug/net8.0/AppropriateGreetings
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/bin/Debug/net8.0/AppropriateGreetings.deps.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/bin/Debug/net8.0/AppropriateGreetings.runtimeconfig.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/bin/Debug/net8.0/AppropriateGreetings.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/bin/Debug/net8.0/AppropriateGreetings.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/obj/Debug/net8.0/AppropriateGreetings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/obj/Debug/net8.0/AppropriateGreetings.AssemblyInfoInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/obj/Debug/net8.0/AppropriateGreetings.AssemblyInfo.cs
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/obj/Debug/net8.0/AppropriateGreetings.csproj.CoreCompileInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/obj/Debug/net8.0/AppropriateGreetings.sourcelink.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/obj/Debug/net8.0/AppropriateGreetings.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/obj/Debug/net8.0/refint/AppropriateGreetings.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/obj/Debug/net8.0/AppropriateGreetings.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/obj/Debug/net8.0/AppropriateGreetings.genruntimeconfig.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/AppropriateGreetings/obj/Debug/net8.0/ref/AppropriateGreetings.dll

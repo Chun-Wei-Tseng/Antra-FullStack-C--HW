@@ -1,0 +1,15 @@
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/bin/Debug/net8.0/ConvertCenturies
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/bin/Debug/net8.0/ConvertCenturies.deps.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/bin/Debug/net8.0/ConvertCenturies.runtimeconfig.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/bin/Debug/net8.0/ConvertCenturies.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/bin/Debug/net8.0/ConvertCenturies.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/obj/Debug/net8.0/ConvertCenturies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/obj/Debug/net8.0/ConvertCenturies.AssemblyInfoInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/obj/Debug/net8.0/ConvertCenturies.AssemblyInfo.cs
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/obj/Debug/net8.0/ConvertCenturies.csproj.CoreCompileInputs.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/obj/Debug/net8.0/ConvertCenturies.sourcelink.json
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/obj/Debug/net8.0/ConvertCenturies.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/obj/Debug/net8.0/refint/ConvertCenturies.dll
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/obj/Debug/net8.0/ConvertCenturies.pdb
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/obj/Debug/net8.0/ConvertCenturies.genruntimeconfig.cache
+/Users/waynetseng/RiderProjects/ConsoleApp2/ConvertCenturies/obj/Debug/net8.0/ref/ConvertCenturies.dll

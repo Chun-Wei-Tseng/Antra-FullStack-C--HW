@@ -1,0 +1,24 @@
+1.	What type would you choose for the following “numbers”?
+•	A person’s telephone number  string
+•	A person’s height  ushort
+•	A person’s age  byte
+•	A person’s gender (Male, Female, Prefer Not To Answer)  Enum
+•	A person’s salary  decimal
+•	A book’s ISBN  char
+•	A book’s price  decimal
+•	A book’s shipping weight  float
+•	A country’s population  uint
+•	The number of stars in the universe  ulong
+•	The number of employees in each of the small or medium business in the United Kingdom (up to about 50,000 employees per business)  uint
+2.	What are the differences between value type and reference type variables? What is boxing and unboxing?
+Ans: 
+-	Value type directly contains the data, and those data are usually allocated on the stack. When you assign one value type variable to another, a copy of the value is made. Reference type variables store references (pointers) to their data, which is allocated on the heap. When you assign one reference type variable to another, both variables refer to the same object in the memory. Modifying the data through one variable affects the data accessed by the other variable.
+-	Boxing is the process of converting a value type to a reference type.
+-	Unboxing is the process of converting a reference type back to a value type.
+
+3.	What is meant by the terms managed resources and unmanaged resource in .NET?
+Ans: 
+-	Managed resources are those that are managed by the .NET runtime (CLR – Common Language Runtime). The CLR takes care of allocating and freeing the memory for these resources. Developers do not need to manually manage their lifecycle.
+-	Unmanaged resource are those that are not managed by the .NET runtime. These resources are typically provided by the operating system or external libraries, and their management is the responsibility of the developer.
+4.	What’s the purpose of Garbage Collector in .NET?
+Ans: The purpose of Garbage Collector is to manage the allocation and release of memory for application automatically. This includes freeing up memory that is no longer  needed, ensuring that the application uses memory efficiently, and preventing memory leaks and other memory-related issues.
